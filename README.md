@@ -1,9 +1,9 @@
 # Final project Infrastructure and jenkins deploy
 
-#### - Infrastructure as a code to build private gke you can read more about it :
+#### 1) Infrastructure as a code to build private gke you can read more about it :
 
-#####  - <a href="./terraform">Infrastructure</a>
+#####  - <a href="./terraform">Infrastructure (terraform code)</a>
 
 
-#### - we need to deploy jenkins on our cluster: 
+#### 2) we need to deploy jenkins on our cluster: 
 #####  - <a href="./jenkins">Deploy Jenkins on Cluster Using Helm</a>

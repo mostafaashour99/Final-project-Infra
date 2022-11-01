@@ -1,7 +1,8 @@
-# infrastructure 
+# infrastructure info and setup
 
 ![1_-yXfoGjebJS0RIwUNzJ6Ig](https://user-images.githubusercontent.com/52250018/199336829-1d104ab7-aa80-4809-9775-b4b3cf8dfea9.png)
 
+#
 1. network module content of :
   - two subnets one for gke and another for bastion
   - nat gateway 
@@ -13,7 +14,7 @@
 3. bastion module for creating a private vm to connect with gke cluster
 
 
-# to build this infrastructure
+# to build this infrastructure you need to follow this steps:
 ### get copy from code by 
 ```
 git clone https://github.com/mostafaashour99/Final-project-Infra.git
